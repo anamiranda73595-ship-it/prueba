@@ -1,0 +1,7 @@
+{
+  "name": "PRUEBA PILOTO ",
+  "description": "An advanced inventory and logistics management application for a bath towel company. It features stock control, overstock analysis using AI, order management, route optimization, PDF reporting, and automated change detection from email communications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
